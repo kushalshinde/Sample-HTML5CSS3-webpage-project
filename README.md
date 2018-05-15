@@ -9,8 +9,7 @@ We need a browser to support HTML and CSS styles
 
 ### Installing
 
-Please open HTMLCSS.html file in a browser. Click Here -->  [[Open Here](https://github.com/kushalshinde/Sample-HTML5CSS3-webpage-project/blob/master/src/HTMLCSS.html "HTMLCSS.html")]
-
+Please open HTMLCSS.html file in a browser. 
 ### Screenshots
 
 Please open screenshot folder to see the actual webpage design or 
