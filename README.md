@@ -18,11 +18,6 @@ Click Here --> [[Open landscape view](https://github.com/kushalshinde/Sample-HTM
 
 Click Here --> [[Open Mobile view](https://github.com/kushalshinde/Sample-HTML5CSS3-webpage-project/blob/master/screenshot/MobileView.png "Mobile view")]
 
-### Built With
-
-HTML5
-
-CSS3
 
 ### Authors
 
