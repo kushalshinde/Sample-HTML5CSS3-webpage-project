@@ -9,15 +9,15 @@ We need a browser to support HTML and CSS styles
 
 ### Installing
 
-Please open HTMLCSS.html file in a browser. Click Here -->  [[Open Here](https://www.google.com "HTMLCSS.html")]
+Please open HTMLCSS.html file in a browser. Click Here -->  [[Open Here](https://github.com/kushalshinde/Sample-HTML5CSS3-webpage-project/blob/master/src/HTMLCSS.html "HTMLCSS.html")]
 
 ### Screenshots
 
 Please open screenshot folder to see the actual webpage design or 
 
-Click Here --> [[Open landscape view](https://www.google.com "Landscape view")]
+Click Here --> [[Open landscape view](https://github.com/kushalshinde/Sample-HTML5CSS3-webpage-project/blob/master/screenshot/DesktopView.png "Landscape view")]
 
-Click Here --> [[Open Mobile view](https://www.google.com "Mobile view")]
+Click Here --> [[Open Mobile view](https://github.com/kushalshinde/Sample-HTML5CSS3-webpage-project/blob/master/screenshot/MobileView.png "Mobile view")]
 
 ### Built With
 
