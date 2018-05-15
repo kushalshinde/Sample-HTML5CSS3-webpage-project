@@ -9,11 +9,15 @@ We need a browser to support HTML and CSS styles
 
 ### Installing
 
-open HTMLCSS.html file in a browser. Click Here -->  [Open] (https://www.google.com)
+Please open HTMLCSS.html file in a browser. Click Here -->  [[Open Here](https://www.google.com "HTMLCSS.html")]
 
 ### Screenshots
 
-Please open screenshot folder to see the actual webpage design 
+Please open screenshot folder to see the actual webpage design or 
+
+Click Here --> [[Open landscape view](https://www.google.com "Landscape view")]
+
+Click Here --> [[Open Mobile view](https://www.google.com "Mobile view")]
 
 ### Built With
 
